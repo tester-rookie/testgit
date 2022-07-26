@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-RGTS8N0G",
+    "children" : [ {
+      "name" : "5500-MainThread",
+      "children" : [ {
+        "name" : "test_login_001",
+        "uid" : "fcd214e6a6251ebf",
+        "parentUid" : "27f63479062709901b1fe0a601c1b4fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653796352807,
+          "stop" : 1653796353058,
+          "duration" : 251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27f63479062709901b1fe0a601c1b4fb"
+    } ],
+    "uid" : "25fcd606a232e29a4bce5e11863aa493"
+  } ]
+}

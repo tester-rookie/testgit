@@ -1,0 +1,81 @@
+[ {
+  "uid" : "223666beb2273097",
+  "name" : "test_03",
+  "time" : {
+    "start" : 1652499812054,
+    "stop" : 1652499812055,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "80d2791e2619d1f6",
+  "name" : "test_01",
+  "time" : {
+    "start" : 1652499812049,
+    "stop" : 1652499812049,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1622987873cece1f",
+  "name" : "login01",
+  "time" : {
+    "start" : 1652499812135,
+    "stop" : 1652499812136,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c4bd4bddc105b1f",
+  "name" : "test_02",
+  "time" : {
+    "start" : 1652499812052,
+    "stop" : 1652499812052,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d947ef4d5a0fb1f5",
+  "name" : "login01",
+  "time" : {
+    "start" : 1652499812140,
+    "stop" : 1652499812141,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "da16de8376035891",
+  "name" : "login01",
+  "time" : {
+    "start" : 1652499812138,
+    "stop" : 1652499812138,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "175f67efc5992d32",
+  "name" : "shopping_tile",
+  "time" : {
+    "start" : 1652499812151,
+    "stop" : 1652499812151,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2058e9847a305a26",
+  "name" : "test_login02",
+  "time" : {
+    "start" : 1652499812146,
+    "stop" : 1652499812148,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

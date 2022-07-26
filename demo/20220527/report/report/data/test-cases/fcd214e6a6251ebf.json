@@ -1,0 +1,59 @@
+{
+  "uid" : "fcd214e6a6251ebf",
+  "name" : "test_login_001",
+  "fullName" : "TestCase.Test_Login.Test_login#test_login_001",
+  "historyId" : "7c4a1ac9cc4dd5b86f8eb8ba65671100",
+  "time" : {
+    "start" : 1653796352807,
+    "stop" : 1653796353058,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登陆模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "suite",
+    "value" : "Test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-RGTS8N0G"
+  }, {
+    "name" : "thread",
+    "value" : "5500-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCase.Test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcd214e6a6251ebf.json",
+  "parameterValues" : [ ]
+}

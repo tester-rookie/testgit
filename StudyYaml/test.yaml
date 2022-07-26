@@ -1,0 +1,11 @@
+--- #下面格式读到python里是复合结构
+- name: 黄色
+  age: 18
+  job: Tester
+- name: James
+  age: 30
+
+---
+ - king
+ - 18
+ - Tester

@@ -1,0 +1,25 @@
+Login: #登录模块
+ host: http://121.41.14.39:8082
+ account:
+  username: wa0312
+  password: '61412'
+ login: #登录接口
+  path: /account/sLogin #接口路径
+  method: POST #接口调用方法
+
+Business_manager: #业务管理
+ picture_put: #图片上传接口
+  path: /file #接口路径
+  method: POST #接口调用方法
+ list_shop: #列出商铺接口
+  path: /shopping/myShop  #接口路径
+  method: GET #接口调用方法
+ update_shop: #修改商铺信息接口
+  path: /shopping/updatemyshop  #接口路径
+  method: POST #接口调用方法
+ add_food: #添加食品种类
+  path: /shopping/addcategory  #接口路径
+  method: POST #接口调用方法
+ getcategory: #列出店铺食品信息接口
+  path:  #接口路径
+  method: #接口调用方法

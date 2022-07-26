@@ -1,0 +1,9 @@
+#下面格式读到python里有各种基本结构
+
+str: "Hello World!"
+int: 110
+float: 3.141
+boolean: true # or false
+None: null # 也可以用 ~ 号来表示 null
+time: 2016-09-22t11:43:30.20+08:00 # ISO8601，写法百度
+date: 2016-09-22 # 同样ISO8601

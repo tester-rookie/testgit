@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登陆模块",
+    "children" : [ {
+      "name" : "test_login_001",
+      "uid" : "fcd214e6a6251ebf",
+      "parentUid" : "aabb69485063425b718b057ab51a7a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653796352807,
+        "stop" : 1653796353058,
+        "duration" : 251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "aabb69485063425b718b057ab51a7a51"
+  } ]
+}

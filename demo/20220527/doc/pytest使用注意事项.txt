@@ -1,0 +1,8 @@
+	.py文件必须以test_开头（或者以_test结尾）
+	测试类必须以Test开头，并且不能有init方法
+	测试方法必须以test_开头
+	断言必须使用assert
+
+self.__class__.__name__  #获取子类类名
+
+nspect.stack()[1][3]    #获取调用方函数名称

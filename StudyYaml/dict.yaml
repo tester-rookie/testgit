@@ -1,0 +1,7 @@
+#下面格式读到python里会是一个dict
+#注意冒号后面有一个空格
+#yaml格式文档空格很关键
+
+name: king
+age: 18
+job: Tester
