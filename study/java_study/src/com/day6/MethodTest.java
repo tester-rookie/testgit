@@ -1,12 +1,24 @@
 package com.day6;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class MethodTest {
     public static void main(String[] args) {
         //求1-100的和
-        System.out.println(sum(100));
-        int[] ages = {15,66,18,36};
-        System.out.println(getArrMaxData(ages));
-        printArray(ages);
+//        System.out.println(sum(100));
+//        int[] ages = {15,66,18,36};
+//        System.out.println(getArrMaxData(ages));
+//        printArray(ages);
+
+//        //参数传递的调用
+//        int a=10;
+//        System.out.println(a);
+//        change(a);
+//        System.out.println(a);
+
+        //可变参数传递的调用
+        data();
     }
     //求1-n的和并返回
     public static int sum(int n){
@@ -39,5 +51,18 @@ public class MethodTest {
         }else {
             System.out.println("当前数组对象不存在，是null");
         }
+    }
+
+    //方法的参数传递
+    public static void change (int a){
+        System.out.println(a);
+        a=50;
+        System.out.println(a);
+    }
+
+    //可变参数传递
+    public static void data(int...nums){
+        System.out.println("元素个数为"+nums.length);
+        System.out.println("数组的内容"+ Arrays.toString(nums));
     }
 }

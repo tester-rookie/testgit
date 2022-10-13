@@ -12,11 +12,11 @@ public class OperateDemo {
 //        System.out.println(a%b);
 
         //+连接符 能算则算，不能算就在一起
-//        int a = 5;
-//        System.out.println("abc"+a);
-//        System.out.println(a+5);
-//        System.out.println(a+'5');
-//        System.out.println(a+"5");
+        int a = 5;
+        System.out.println("abc"+a);
+        System.out.println(a+5);
+        System.out.println(a+'5');
+        System.out.println(a+"5");
 
 //        //赋值运算符
 //        int a = 100;
@@ -24,8 +24,8 @@ public class OperateDemo {
 //        System.out.println(a+=b);
 
         //三元运算符 ？
-        int sorce=38;
-        int high = 198;
-        System.out.println(sorce>60||high>172?"录取":"淘汰");
+//        int sorce=38;
+//        int high = 198;
+//        System.out.println(sorce>60||high>172?"录取":"淘汰");
     }
 }
