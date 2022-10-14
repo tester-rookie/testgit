@@ -10,7 +10,7 @@ public class RetunOnleDemo {
     public static void div(int a,int b){
         if(b==0){
             System.out.println("您输入的数据有问题，b不能为0");
-            return;
+            return;//直接结束当前方法
         }
         int c =a/b;
         System.out.println(c);
