@@ -21,6 +21,17 @@ public class ObjectTest{
         System.out.println(c2.price);
         c2.start();
         c2.run();
+
+        System.out.println("------------");
+        Student s1 = new Student();
+        Student s2 = new Student("小王",180);
+        System.out.println(s2.name);
+        System.out.println(s2.height);
+        System.out.println(s1.name);
+        System.out.println(s1.height);
+
+        System.out.println(s2.name+"身高"+s2.height);
+        s2.fight("小李");
     }
 
 }
